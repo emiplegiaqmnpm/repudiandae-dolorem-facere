@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@emiplegiaqmnpm/repudiandae-dolorem-facere",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,14 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/emiplegiaqmnpm/repudiandae-dolorem-facere.git"
   },
   "dependencies": {
+    "@emiplegiaqmnpm/porro-culpa-sint": "^1.0.0",
+    "@emiplegiaqmnpm/praesentium-ut-quam": "^1.0.0",
+    "@emiplegiaqmnpm/quas-vero-impedit": "^1.0.0",
+    "@emiplegiaqmnpm/reiciendis-sint-iusto": "^1.0.0",
+    "@f1stnpm2/officiis-cumque-dolor-ducimus": "^1.0.0",
+    "@ffras4vnpm/atque-vel-expedita-quam": "^1.0.0"
   }
 }
